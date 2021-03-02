@@ -11,13 +11,13 @@ setup(
     author='Katherine J. Temkin',
     author_email='ktemkin@greatscottgadgets.com',
     description='python library providing utilities, data structures, constants, parsers, and tools for working with USB data',
-    use_scm_version= {
-        "root": '..',
-        "relative_to": __file__,
-        "version_scheme": "guess-next-dev",
-        "local_scheme": lambda version : version.format_choice("+{node}", "+{node}.dirty"),
-        "fallback_version": "0.0"
-    },
+    #use_scm_version= {
+        #"root": '..',
+        #"relative_to": __file__,
+        #"version_scheme": "guess-next-dev",
+        #"local_scheme": lambda version : version.format_choice("+{node}", "+{node}.dirty"),
+        #"fallback_version": "0.0"
+    #},
 
     # Imports / exports / requirements.
     platforms='any',
