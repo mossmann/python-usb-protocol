@@ -29,7 +29,7 @@ setup(
 
     # Metadata
     classifiers = [
-        'Programming Language :: Python',
+        'Programming Language :: Python :: 3',
         'Development Status :: 1 - Planning',
         'Natural Language :: English',
         'Environment :: Console',
