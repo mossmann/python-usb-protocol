@@ -5,6 +5,7 @@ setup(
 
     # Vitals
     name='usb_protocol',
+    version='0.0',
     license='BSD',
     url='https://github.com/usb-tool/luna',
     author='Katherine J. Temkin',
