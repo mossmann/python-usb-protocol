@@ -5,7 +5,7 @@ setup(
 
     # Vitals
     name='usb_protocol',
-    version='0.0',
+    version='0.0.0',
     license='BSD',
     url='https://github.com/mossmann/python-usb-protocol',
     author='Katherine J. Temkin',
