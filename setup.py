@@ -7,7 +7,7 @@ setup(
     name='usb_protocol',
     version='0.0',
     license='BSD',
-    url='https://github.com/usb-tool/luna',
+    url='https://github.com/mossmann/python-usb-protocol',
     author='Katherine J. Temkin',
     author_email='ktemkin@greatscottgadgets.com',
     description='python library providing utilities, data structures, constants, parsers, and tools for working with USB data',
